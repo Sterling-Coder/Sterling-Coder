@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Aman Kumar</h1>
+<h1 align="center">Hey there! 👋 I'm Aman Rastogi</h1>
 <p align="center">🚀 Tech Support Intern @ Element Infomatics | 🧠 Machine Learning Enthusiast | ☁️ Cloud-AWS | 🛠️ Building with LangGraph</p>
 
 <p align="center">
