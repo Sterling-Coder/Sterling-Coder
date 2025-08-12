@@ -2,9 +2,7 @@
 <h3 align="center">SDE & AI Engineer | Building Intelligent, Scalable Solutions</h3>
 
 <p align="center">
-  <a href="#">
-    <img src="commitcal.svg" width="400" alt="Commit Calendar">
-  </a>
+  <a href=#><img src="commitcal.svg"></a>
 </p>
 
 ---
