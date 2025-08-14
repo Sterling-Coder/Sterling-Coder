@@ -24,9 +24,8 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amanrastogi-ai)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rastogi-aman)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](#)  
 
 ---
-
 <p align="center">✨ “Code. Learn. Build. Repeat.” ✨</p>
